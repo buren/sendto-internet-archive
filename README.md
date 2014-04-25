@@ -1,4 +1,4 @@
-# to_archive.org
+# sendto-internet-archive
 Send URLs to archive.org from URL, URL list or /sitemap.xml. 
 
 ## Usage
