@@ -21,4 +21,4 @@ Bug described in https://github.com/ariya/phantomjs/issues/10560.
 
 
 ## License
-(MIT License)[https://github.com/buren/to_archive.org/blob/master/LICENSE]
+[MIT License](https://github.com/buren/to_archive.org/blob/master/LICENSE)
