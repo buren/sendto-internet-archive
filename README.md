@@ -1,5 +1,5 @@
-# to_archive.org
-Send URLs to archive.org from URL, URL list or /sitemap.xml. 
+# sendto-internet-archive
+Send URLs to archive.org from URL, URL list or /sitemap.xml.
 
 ## Usage
 ```bash
@@ -21,4 +21,4 @@ Bug described in https://github.com/ariya/phantomjs/issues/10560.
 
 
 ## License
-[MIT License](https://github.com/buren/to_archive.org/blob/master/LICENSE)
+[MIT License](https://github.com/buren/sendto-internet-archive/blob/master/LICENSE)
