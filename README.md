@@ -19,6 +19,5 @@ Currently the script crashes when reaching ~100 URLs.
 
 Bug described in https://github.com/ariya/phantomjs/issues/10560.
 
-
 ## License
 [MIT License](https://github.com/buren/sendto-internet-archive/blob/master/LICENSE)
